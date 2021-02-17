@@ -1,6 +1,14 @@
 # I2PChat (formerly I2P-Messenger)
+
+## Fundraisers
+
+I am really moved by privacy and anonymity communications software autopoietic macro dynamic systems. So I intend to start practice of fundraisers to create a more established and sustainable sub-ecosystem for that, with current main focus on I2P communications, especially serverless. So please stay tuned. For returns of investments, features optional to use, maybe serverful, are thought out. More to go, I think. That would be a hidden world of ours, where I would be one of city managers like in some simulated city games. Or do I2P and hidden worlds need worlds producers? So I (or, maybe, we) need crypto money support. And investors may need returns. Please discuss at issues, maybe I'll add a discussions repo feature, too.
+
+## Status
+
 [![Build status appveyor MinGW32](https://ci.appveyor.com/api/projects/status/0tanjnojnlpksug6?svg=true)](https://ci.appveyor.com/project/wipedlifepotato/i2pchat)
 [![Build Status travis linux(xenial)](https://travis-ci.org/wipedlifepotato/i2pchat.svg?branch=master)](https://travis-ci.org/wipedlifepotato/i2pchat)
+
 ## Screenshots
 
 ![screenshot-roster](https://vituperative.github.io/i2pchat/screenshots/main.png) ![screenshot-chat](https://vituperative.github.io/i2pchat/screenshots/chat.png)
