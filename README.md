@@ -2,7 +2,7 @@
 
 ## Donations
 
-BTC for I2PChat base on Flutter (including Android target) and maybe more platforms in futures: 36GLhgAo8JwdxH1ATjHJ7bLK37mUbKaRHw
+BTC for I2PChat based on Flutter (including Android target) and maybe more platforms in futures: 36GLhgAo8JwdxH1ATjHJ7bLK37mUbKaRHw
 
 ## Status
 
