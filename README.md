@@ -1,8 +1,10 @@
-# I2PChat (formerly I2P-Messenger)
+# I2PChat (formerly I2P Qt Messenger)
 
 ## Donations
 
-BTC for I2PChat based on Flutter (including Android target) and maybe more platforms in futures: 36GLhgAo8JwdxH1ATjHJ7bLK37mUbKaRHw
+For I2PChat based on Flutter (including Android target) and maybe more platforms in the future:
+
+BTC: 36GLhgAo8JwdxH1ATjHJ7bLK37mUbKaRHw
 
 ## Status
 
@@ -55,7 +57,7 @@ sudo apt-get install qt5-qmake qt5-default build-essential libqt5multimedia5 qtm
    - Release: `qmake I2PChat.pro "CONFIG += release"`
    - Debug: `qmake I2PChat.pro "CONFIG += debug"`
 
- * To complile:
+ * To compile:
    - `make -j NUMBER_OF_PROCESSOR_CORES` e.g `make -j8`
    - or `make` to compile single-threaded
 
