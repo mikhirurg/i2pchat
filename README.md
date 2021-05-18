@@ -4,8 +4,8 @@
 
 For I2PChat based on Flutter (including Android target) and maybe more platforms in the future:
 
-BTC: 36GLhgAo8JwdxH1ATjHJ7bLK37mUbKaRHw
-GOST: GX41zZcqKy81CzyDCmnpRtpCKpR1fwEDet https://gostco.in/
+ * BTC: 36GLhgAo8JwdxH1ATjHJ7bLK37mUbKaRHw
+ * GOST: GX41zZcqKy81CzyDCmnpRtpCKpR1fwEDet https://gostco.in/
 
 ## Status
 
