@@ -1,3 +1,9 @@
+<p>
+  <a href="https://www.bountysource.com/teams/i2pchat" title="Bountysource">
+    <img src="https://img.shields.io/bountysource/team/i2pchat/activity">
+  </a>
+</p>
+
 # I2PChat (formerly I2P Qt Messenger)
 
 ## Donations
