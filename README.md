@@ -89,16 +89,18 @@ Licensed under GPLv2.
 ## Credits
 
 <em>
-  Thanks
-    * To the German anonymous guy who is the author of original code for I2PQtMessenger AKA i2pchat,
-    * to eche|on and kytv for the work on it and preserving the source code for it at various places,
-    * to anonymous contributors who took part in the project and commented,
-    * to drz3d for community organisz`::::*`zsation skills and work and commits of graphics and commits of code made by more or less anonymous programmers, and
-    * to wipedlifepotato for the failures healings/bugfixes healthy patches that wipedlifepotato submitted to drz3d (and drz3d committed them to the codebases and forks of i2pchat, for the community benefit).
-    * Special Thanks are also to forgotten unknown contributors and 
-    * to others who took part in the i2pchat project!
+
+Thanks
+ * To the German anonymous guy who is the author of original code for I2PQtMessenger AKA i2pchat,
+ * to eche|on and kytv for the work on it and preserving the source code for it at various places,
+ * to anonymous contributors who took part in the project and commented,
+ * to drz3d for community organisz`::::*`zsation skills and work and commits of graphics and commits of code made by more or less anonymous programmers, and
+ * to wipedlifepotato for the failures healings/bugfixes healthy patches that wipedlifepotato submitted to drz3d (and drz3d committed them to the codebases and forks of i2pchat, for the community benefit).
+ * Special Thanks are also to forgotten unknown contributors and 
+ * to others who took part in the i2pchat project!
+
 </em>
 
 ## Enjoy!
 
-... &emdash; And Please Be Good! Otherwise Good Creatures Will Find You And Prosecute!
+... --- And Please Be Good! Otherwise Good Creatures Will Find You And Prosecute!
