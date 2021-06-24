@@ -100,3 +100,5 @@ Licensed under GPLv2.
 </em>
 
 ## Enjoy!
+
+... &emdash; And Please Be Good! Otherwise Good Creatures Will Find You And Prosecute!
