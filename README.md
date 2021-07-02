@@ -1,4 +1,10 @@
 <p>
+  <a href="https://travis-ci.org/wipedlifepotato/i2pchat">
+    <img src="https://travis-ci.org/wipedlifepotato/i2pchat.svg?branch=master">
+  </a>
+  <a href="https://ci.appveyor.com/project/wipedlifepotato/i2pchat">
+    <img src="https://ci.appveyor.com/api/projects/status/0tanjnojnlpksug6?svg=true">
+  </a>
   <a href="https://www.bountysource.com/teams/i2pchat" title="Bountysource">
     <img src="https://img.shields.io/bountysource/team/i2pchat/activity">
   </a>
@@ -12,11 +18,6 @@ For I2PChat based on Flutter (including Android target) and maybe more platforms
 
  * BTC: 36GLhgAo8JwdxH1ATjHJ7bLK37mUbKaRHw
  * GOST: GX41zZcqKy81CzyDCmnpRtpCKpR1fwEDet https://gostco.in/
-
-## Status
-
-[![Build status appveyor MinGW32](https://ci.appveyor.com/api/projects/status/0tanjnojnlpksug6?svg=true)](https://ci.appveyor.com/project/wipedlifepotato/i2pchat)
-[![Build Status travis linux(xenial)](https://travis-ci.org/wipedlifepotato/i2pchat.svg?branch=master)](https://travis-ci.org/wipedlifepotato/i2pchat)
 
 ## Screenshots
 
