@@ -113,6 +113,8 @@ int main(int argc, char *argv[]) {
                NameOfConfigDirectoryOnLinux;
 #endif
 
+  QApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
+  
   { // getopt_long + getopt (short)
 
     int ret;
